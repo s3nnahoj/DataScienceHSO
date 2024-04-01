@@ -8,5 +8,7 @@ Material zur Lehrveranstaltung Data Science im Forschungsmaster "Applied Researc
 
 ## Basic Statistics and Data Wrangling
 * [Pandas Intro 1](https://colab.research.google.com/github/s3nnahoj/DataScienceHSO/blob/main/02_BasicStatistics/Lab_pandas_01_Intro.ipynb)
+* [Numpy Introduction](https://colab.research.google.com/github/s3nnahoj/DataScienceHSO/blob/main/02_BasicStatistics/Numpy_Introduction.ipynb)
 * [Aufgabe 1: Basic Pandas](https://colab.research.google.com/github/s3nnahoj/DataScienceHSO/blob/main/02_BasicStatistics/Assignment_1.ipynb)
 * [Aufgabe 2: GroupBy](https://colab.research.google.com/github/s3nnahoj/DataScienceHSO/blob/main/02_BasicStatistics/Assignment_2.ipynb)
+* [Aufgabe 3: Numpy](https://colab.research.google.com/github/s3nnahoj/DataScienceHSO/blob/main/02_BasicStatistics/Assignment_3_Numpy.ipynb)
