@@ -12,3 +12,5 @@ Material zur Lehrveranstaltung Data Science im Forschungsmaster "Applied Researc
 * [Aufgabe 1: Basic Pandas](https://colab.research.google.com/github/s3nnahoj/DataScienceHSO/blob/main/02_BasicStatistics/Assignment_1.ipynb)
 * [Aufgabe 2: GroupBy](https://colab.research.google.com/github/s3nnahoj/DataScienceHSO/blob/main/02_BasicStatistics/Assignment_2.ipynb)
 * [Aufgabe 3: Numpy](https://colab.research.google.com/github/s3nnahoj/DataScienceHSO/blob/main/02_BasicStatistics/Assignment_3_Numpy.ipynb)
+* [Aufgabe 4: Titanic and KNN](https://colab.research.google.com/github/s3nnahoj/DataScienceHSO/blob/main/04_SupervisedLearning/Assignment_4_Titanic_KNN.ipynb)
+
