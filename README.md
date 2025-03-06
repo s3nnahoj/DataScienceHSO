@@ -1,4 +1,4 @@
-# DataScienceHSO (MAR) SS24
+# DataScienceHSO (MAR) 
 Material zur Lehrveranstaltung Data Science im Forschungsmaster "Applied Research" (MAR) der Hochschule Offenburg.
 
 ## Hinweise
